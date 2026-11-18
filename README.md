@@ -8,7 +8,8 @@
   </a>
 </p>
 
-### `> stack.exe`
+---
+## stack.exe
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,19 +17,20 @@
   </a>
 </p>
 
-### `> player_stats.sav`
+
+## player_stats.sav
 
 <p align="center">
   <img src="./assets/player-stats.png" width="640" alt="Repos, contributions, stars and followers this year" />
 </p>
 
-### `> quest_log.sav`
+## quest_log.sav
 
 <p align="center">
   <img src="./assets/quest-log.png" width="640" alt="Projects created this year, updated automatically" />
 </p>
 
-### `> snake.exe`
+## snake.exe
 
 <p align="center">
   <picture>
@@ -38,7 +40,7 @@
   </picture>
 </p>
 
-### `> contact`
+## contact
 
 <p align="center">
   <a href="https://YOUR-DOMAIN">
