@@ -8,14 +8,15 @@
   </a>
 </p>
 
-### `> stack.exe`
+---
+## stack.exe
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,unity,godot,python,github&theme=dark" alt="C#, C++, Unity, Godot, Python, GitHub" />
   </a>
 </p>
-
+---
 ### `> player_stats.sav`
 
 <p align="center">
