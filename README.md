@@ -13,12 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,unity,godot,python,github&theme=dark" alt="C#, C++, Unity, Godot, Python, GitHub" />
-  </a>
-</p>
-
-<p align="center">
   <img src="./assets/player-stats.png" width="640" alt="Repos, contributions, stars and followers this year" />
 </p>
 
@@ -44,4 +38,10 @@
   <a href="https://www.linkedin.com/in/sebastian-fernando-gutierrez-rojas-389695408/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=33D6FF" alt="LinkedIn" /></a>
   <a href="mailto:sebasgdesign@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0B?style=for-the-badge&logo=gmail&logoColor=FF3355" alt="Email" /></a>
   
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,unity,godot,python,github&theme=dark" alt="C#, C++, Unity, Godot, Python, GitHub" />
+  </a>
+</p>
+
 </p>
