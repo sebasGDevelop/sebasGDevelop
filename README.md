@@ -8,8 +8,9 @@
   </a>
 </p>
 
----
-## stack.exe
+<p align="center">
+  <img src="./assets/whoami.png" width="760" alt="Player 1 · Sebas: Systems Engineering Student, Game Development. Inventory: C#, C++, Unity, Godot, Python. Main quest: Medieval Market. Side quest: Personal Growth App." />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,20 +18,13 @@
   </a>
 </p>
 
-
-## player_stats.sav
-
 <p align="center">
   <img src="./assets/player-stats.png" width="640" alt="Repos, contributions, stars and followers this year" />
 </p>
 
-## quest_log.sav
-
 <p align="center">
   <img src="./assets/quest-log.png" width="640" alt="Projects created this year, updated automatically" />
 </p>
-
-## snake.exe
 
 <p align="center">
   <picture>
@@ -40,10 +34,8 @@
   </picture>
 </p>
 
-## contact
-
 <p align="center">
-  <a href="https://YOUR-DOMAIN">
+  <a href="https://sebasgdesign.com">
     <img src="./assets/sgd-icon.png" width="96" alt="SGD · SebasGameDesign" />
   </a>
 </p>
