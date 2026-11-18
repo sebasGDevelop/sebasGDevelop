@@ -8,32 +8,6 @@
   </a>
 </p>
 
-```text
-╔════════════════════════════════════════════════════╗
-║ PLAYER 1 · SEBAS                            LV. 01 ║
-║ HP ██████████                        XP █████████║
-╠════════════════════════════════════════════════════╣
-║ CLASS                  Systems Engineering Student ║
-║ BRANCH                            Game Development ║
-║ ALIGNMENT            Logic by day, pixels by night ║
-╠════════════════════════════════════════════════════╣
-║ INVENTORY                                          ║
-║   [C#]  [C++]  [Unity]  [Godot]  [Python]          ║
-║                                                    ║
-║ MAIN QUEST                         Medieval Market ║
-║ SIDE QUEST                     Personal Growth App ║
-║ ACTIVE POWER-UP                      coffee + lofi ║
-╚════════════════════════════════════════════════════╝
-
-┌────────────────────────────────────────────────────┐
-│ A wild developer appeared!                         │
-│ What will you do?                                  │
-│                                                    │
-│   > VIEW PROJECTS        CONTACT                   │
-│     INVITE TO PARTY      RUN                       │
-└────────────────────────────────────────────────────┘
-```
-
 ### `> stack.exe`
 
 <p align="center">
