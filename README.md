@@ -36,13 +36,12 @@
 
 <p align="center">
   <a href="https://sebasgdesign.com">
-    <img src="./assets/sgd-icon.png" width="96" alt="SGD · SebasGameDesign" />
+    <img src="./assets/sgd-icon.png" alt="SGD · SebasGameDesign" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-fernando-gutierrez-rojas-389695408/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=33D6FF" alt="LinkedIn" /></a>
   <a href="mailto:sebasgdesign@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0B?style=for-the-badge&logo=gmail&logoColor=FF3355" alt="Email" /></a>
+  
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0B,50:1A1A1F,100:33D6FF&height=120&section=footer&text=GAME%20OVER%3F%20PRESS%20START&fontSize=18&fontColor=F2F0E6&fontAlignY=72" width="100%" alt="Footer" />
