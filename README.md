@@ -17,7 +17,8 @@
   </a>
 </p>
 ---
-### `> player_stats.sav`
+
+## player_stats.sav
 
 <p align="center">
   <img src="./assets/player-stats.png" width="640" alt="Repos, contributions, stars and followers this year" />
