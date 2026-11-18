@@ -36,7 +36,7 @@
 
 <p align="center">
   <a href="https://sebasgdesign.com">
-    <img src="./assets/github-readme.gif" width="760" alt="SGD · SebasGameDesign" />
+    <img src="./assets/github-readme.gif" width="500" alt="SGD · SebasGameDesign" />
   </a>
 </p>
 
