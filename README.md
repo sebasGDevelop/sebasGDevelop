@@ -25,12 +25,6 @@
 </p>
 
 <p align="center">
-  <a href="https://sebasgdesign.com">
-    <img src="./assets/github-readme.gif" width="300" alt="SGD · SebasGameDesign" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/sebastian-fernando-gutierrez-rojas-389695408/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=33D6FF" alt="LinkedIn" /></a>
   <a href="mailto:sebasgdesign@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0B?style=for-the-badge&logo=gmail&logoColor=FF3355" alt="Email" /></a>
   
