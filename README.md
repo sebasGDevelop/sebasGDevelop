@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="./assets/whoami.png" width="760" alt="Player 1 · Sebas: Systems Engineering Student, Game Development. Inventory: C#, C++, Unity, Godot, Python. Main quest: Medieval Market. Side quest: Personal Growth App." />
-</p>
-
-<p align="center">
   <img src="./assets/player-stats.png" width="640" alt="Repos, contributions, stars and followers this year" />
 </p>
 
